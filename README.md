@@ -22,7 +22,7 @@ This application provides a fully interactive calculator with a menu-driven inte
 
 ## 🧠 Key Concepts Demonstrated
 
-- Object-Oriented Programming (OOP)
+- Object-Oriented Programming (OOP) 
 - Classes and Objects
 - Encapsulation
 - Method design and reuse

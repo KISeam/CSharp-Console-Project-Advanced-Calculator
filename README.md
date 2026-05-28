@@ -1,4 +1,4 @@
-# C-Console-Project-Advanced-Calculator
+# CSharp-Console-Project-Advanced-Calculator
 
 A console-based C# application developed using .NET 10.0.  
 This project is an advanced calculator system that demonstrates object-oriented programming, file handling, exception handling, and persistent data storage through a history management system.
